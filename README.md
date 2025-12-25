@@ -1,1 +1,2 @@
-# 4-Bit-Sequuential-Adder-With-Accumulator
+This repository contains the Verilog implementation of a 4-bit sequential adder with an accumulator. The design performs step-by-step addition of input data across clock cycles, storing intermediate and final results in the accumulator. 
+A comprehensive testbench is included to verify functionality, timing behavior, and correctness under different input conditions. This project is useful for understanding sequential logic, accumulators, and clocked digital design in Verilog.
