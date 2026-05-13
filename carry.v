@@ -1,5 +1,5 @@
 module carry (cr_out,a,b,cr_in);
-    input a,b,cr_in;
+    input wire a,b,cr_in;
     output wire cr_out;
     wire t1,t2,t3;
         and g1 (t1,a,b);
